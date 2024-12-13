@@ -1,36 +1,44 @@
-<!--
+# Welcome to NUTRIDISH!
 
-**Here are some ideas to get you started:**
+<img src="https://github.com/NutriDish/.github/blob/main/NUTRIDISH-LogoWtext.png" alt="NUTRIDISH Logo" width="150"/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+NUTRIDISH is a collaborative organization dedicated to promoting healthy living through innovative culinary and nutritional solutions. Our mission is to make nutrition both accessible and enjoyable for everyone.
 
-# Pawtopia CH2-PS325
-Pawtopia is a team of seven cohort from Bangkit Academy H2 2023. The team was formed to participate Capstone Project in the Bangkit Academy H2 2023. The members of the Pawtopia team are as follows:
+## About Us
+We are a team of 7 passionate individuals committed to creating impactful projects in the field of nutrition and food technology. Together, we aim to inspire a healthier lifestyle for communities worldwide.
 
-| Name  | Bangkit ID | Learning Path | University | Social Media |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Hanif Ridal Warits  | M249BSY0708  | Machine Learning | Langlang Buana University | <div id="badges"> <a href="https://github.com/HanifRidal">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://www.linkedin.com/in/hanifkrong/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
-| Azka Fauzan Firdaus  | M249BSY1010  | Machine Learning | Langlang Buana University | <div id="badges"> <a href="https://github.com/aceK-Azka">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://linkedin.com/in/azka-fauzan-firdaus-982289239/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
-| Hafid Rizki Nur Rohman  | M297BSY0817  | Machine Learning | Pembangunan Nasional Veteran Yogyakarta University | <div id="badges"> </a> <a href="https://www.linkedin.com/in/hafid-rizki-nur-rohman/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
-| Daffa Fauzan Dzaki  | C249BSY3957  | Cloud Computing | Langlang Buana University | <div id="badges"> <a href="https://github.com/DaffafauzanD">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://www.linkedin.com/in/daffa-fauzan-dzaki-521206280/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
-| Dewi Mukti  | C476BSX3224  | Cloud Computing | Widyatama University | <div id="badges"> <a href="https://github.com/dewimukti06">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://www.linkedin.com/in/dewi-mukti-95710525b/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
-| Muhamad Anis  | A485BSY2036  | Mobile Development | STMIK Widya Pratama | <div id="badges"> <a href="https://github.com/anismhub">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://www.linkedin.com/in/muhamad-anis-30a7b7180/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div> |
-| Ruth Damayanthy Purba  | A319BSX2449  | Mobile Development | Sumatera Utara University | <div id="badges"> <a href="https://github.com/ruthdamayy">   <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" alt="Github Badge"/></a> <a href="https://www.linkedin.com/in/ruth-damayanthy-purba-097a98208/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </div>  |
+## Meet the Team
+Here are the amazing people behind NUTRIDISH:
 
-The project is a mobile application that aims to help people understanding and and treat their pet's diseases.
+1. **Name:** [Member 1]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
 
-# Repository
+2. **Name:** [Member 2]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
 
-### Machine Learning Repository
-<a href="https://github.com/PawTopia/Machine-Learning"> <img src="https://img.shields.io/badge/Machine_Learning_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
+3. **Name:** [Member 3]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
 
-### Cloud Computing Repository
-<a href="https://github.com/PawTopia/Helper-api-pawtopia"> <img src="https://img.shields.io/badge/Cloud_Computing_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
+4. **Name:** [Member 4]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
 
-### Mobile Development Repository
-<a href="https://github.com/PawTopia/Mobile-Dev"> <img src="https://img.shields.io/badge/Mobile_Development_Repository-black?style=for-the-badge&logo=github" alt="Mobile Dev Repo"/></a>
+5. **Name:** [Member 5]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
+
+6. **Name:** [Member 6]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
+
+7. **Name:** [Member 7]  
+   **Social Media:** [Instagram](#) | [Twitter](#) | [LinkedIn](#)
+
+## How to Get Involved
+Feel free to explore our projects, contribute, or reach out to us for collaboration opportunities. Together, we can make a difference in promoting healthier lifestyles.
+
+## Connect With Us
+Stay updated with our latest initiatives and projects:
+
+- [GitHub](https://github.com/NUTRIDISH)
+- [Instagram](#)
+- [LinkedIn](#)
+
+We welcome your support and feedback to help us grow and achieve our mission. Thank you for visiting NUTRIDISH!
