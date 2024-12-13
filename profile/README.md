@@ -1,13 +1,14 @@
 # Welcome to NUTRIDISH!
 
-<img src="https://github.com/NutriDish/.github/blob/main/NUTRIDISH-LogoWtext.png" alt="NUTRIDISH Logo" width="150"/>
-
 NUTRIDISH is a collaborative organization dedicated to promoting healthy living through innovative culinary and nutritional solutions. Our mission is to make nutrition both accessible and enjoyable for everyone.
 
 ## About Us
 We are a team of 7 passionate individuals committed to creating impactful projects in the field of nutrition and food technology. Together, we aim to inspire a healthier lifestyle for communities worldwide.
 
-1. **ID:** M286B4KY0131   
+## Meet the Team
+Here are the amazing people behind NUTRIDISH:
+
+1. **ID:** M286B4KY0131  
    **Name:** Adrian Reynold Ga  
    **University:** Universitas Nusa Cendana  
    **Social Media:** [GitHub](https://github.com/Driaannn) | [LinkedIn](#)  
@@ -15,13 +16,13 @@ We are a team of 7 passionate individuals committed to creating impactful projec
 
 2. **ID:** M286B4KY2185  
    **Name:** Kevin Junus Ketti  
-   **University:** Universitas Nusa Cendana    
+   **University:** Universitas Nusa Cendana  
    **Social Media:** [GitHub](https://github.com/Kaltaric) | [LinkedIn](#)  
    **Learning Path:** Machine Learning
 
 3. **ID:** M286B4KX3976  
    **Name:** Ruvina Febrianti Malelak  
-   **University:** Universitas Nusa Cendana    
+   **University:** Universitas Nusa Cendana  
    **Social Media:** [GitHub](https://github.com/ruvinafmalelak) | [LinkedIn](#)  
    **Learning Path:** Machine Learning
 
@@ -31,7 +32,7 @@ We are a team of 7 passionate individuals committed to creating impactful projec
    **Social Media:** [GitHub](https://github.com/liraserli) | [LinkedIn](#)  
    **Learning Path:** Cloud Computing
 
-5. **ID:** C249B4KY2843 
+5. **ID:** C249B4KY2843  
    **Name:** Muhammad Fauzan Fadillah  
    **University:** Universitas Langlang Buana  
    **Social Media:** [GitHub](https://github.com/fauzfd) | [LinkedIn](#)  
@@ -41,10 +42,10 @@ We are a team of 7 passionate individuals committed to creating impactful projec
    **Name:** Lutfi Ekaprima Jannata  
    **University:** Institut Teknologi Indonesia  
    **Social Media:** [GitHub](https://github.com/LutfiEkaprima) | [LinkedIn](#)  
-     **Learning Path:** Mobile Developer
+   **Learning Path:** Mobile Developer
 
 7. **ID:** A115B4KY3826  
-   **Name:** Ridhuan Rangga Kusuma 
+   **Name:** Ridhuan Rangga Kusuma  
    **University:** Institut Teknologi Indonesia  
    **Social Media:** [GitHub](https://github.com/RidhuanDEV) | [LinkedIn](#)  
    **Learning Path:** Mobile Developer
