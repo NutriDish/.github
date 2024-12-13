@@ -1,9 +1,9 @@
 # Welcome to NUTRIDISH!
 
-NUTRIDISH is a collaborative organization dedicated to promoting healthy living through innovative culinary and nutritional solutions. Our mission is to make nutrition both accessible and enjoyable for everyone.
+Nutridish is an innovative mobile application designed to empower individuals and families, especially in vulnerable communities, to make healthier dietary choices through easy access to nutritious recipes. In Indonesia, where child malnutrition is a significant issue, Nutridish aims to combat inadequate nutrition by promoting healthy eating habits and fostering a culture of home-cooked meals. The app offers a variety of healthy recipes, emphasizes balanced diets, and provides tools for ingredient management and meal planning.
 
 ## About Us
-We are a team of 7 passionate individuals committed to creating impactful projects in the field of nutrition and food technology. Together, we aim to inspire a healthier lifestyle for communities worldwide.
+NutriDish is a team of seven cohort from Bangkit Academy 2024 Batch 2. The team was formed to participate Capstone Project in the Bangkit Academy 2024 Batch 2.
 
 ## Meet the Team
 Here are the amazing people behind NUTRIDISH:
